@@ -1,0 +1,1 @@
+"complex configuration for ngrx" 
